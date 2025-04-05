@@ -46,12 +46,12 @@ Bu proje, Bill Gates'in $100,000,000,000 servetini sanal olarak harcamanızı sa
 
 ## Canlı Demo
 
-[Canlı Demo Linki](https://UYGULAMA_LINKINIZ)
+[Canlı Demo Linki](https://billgatesspe.netlify.app/)
 
 ## İletişim
 
-- LinkedIn: [LinkedIn Profiliniz](https://www.linkedin.com/in/KULLANICI_ADINIZ/)
-- GitHub: [GitHub Profiliniz](https://github.com/KULLANICI_ADINIZ)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aemreari/)
+- GitHub: [GitHub](https://github.com/ahmetemreari)
 
 ## Lisans
 
